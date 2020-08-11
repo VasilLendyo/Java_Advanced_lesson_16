@@ -1,0 +1,7 @@
+pluginManagement{
+	repositories{
+		gradlePluginPortal()
+	}
+}
+
+rootProject.name = 'home_work_less-16'
